@@ -1,3 +1,7 @@
+## Detalhes:
+
+O projeto foi desenvolvido usando NextJs. Consiste de uma tela com um input para buscar o CEP desejado e retorna uma resposta da API ViaCEP com os dados de forma estruturada. Tem validações para garantir que o número colocado no input seja um CEP válido
+
 ## Proposta do trabalho:
 <img src="./proposta.png" height=400 width=400> 
 
