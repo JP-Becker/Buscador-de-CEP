@@ -1,0 +1,1 @@
+<img src="./telaInicial.png" height=300 width=300>  | <img src="./resultadoCep" height=300  width=300>  |  <img src="./teste1.png" height=300  width=300>  |  <img src="./teste2.png" height=300  width=300> 
